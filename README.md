@@ -1,2 +1,2 @@
 # lxjxxcode
-lxj学习代码
+lxj学习第一次提交代码
